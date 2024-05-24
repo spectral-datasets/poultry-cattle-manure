@@ -9,13 +9,13 @@ by PDS algorithm. (2020-08-31)
 
 ## Downloads
 
-* [2024.5.24](https://github.com/spectral-datasets/pollen/releases/tag/v2024.5.24)
+* [2024.5.24](https://github.com/spectral-datasets/poultry-cattle-manure/releases/tag/v2024.5.24)
 
-  * [all.zip](https://github.com/spectral-datasets/pollen/releases/download/v2024.5.24/all.zip)
+  * [all.zip](https://github.com/spectral-datasets/poultry-cattle-manure/releases/download/v2024.5.24/all.zip)
  
-* [raw](https://github.com/spectral-datasets/pollen/releases/tag/raw)
+* [raw](https://github.com/spectral-datasets/poultry-cattle-manure/releases/tag/raw)
 
-  * [dataverse_files.zip](https://github.com/spectral-datasets/pollen/releases/download/raw/dataverse_files.zip) 
+  * [dataverse_files.zip](https://github.com/spectral-datasets/poultry-cattle-manure/releases/download/raw/dataverse_files.zip) 
 
 
 ## Citation
