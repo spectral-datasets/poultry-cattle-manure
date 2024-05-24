@@ -20,7 +20,7 @@ by PDS algorithm. (2020-08-31)
 
 ## Citation
 
-Gogé, Fabien; Thuriès, Laurent; Fouad, Youssef; Damay, Nathalie; Davrieux, Fabrice; Moussard, Geraud; Le Roux, Caroline; Trupin-Maudemain, Séverine; Valé, Matthieu; Morvan, Thierry, 2020, "Dataset of chemical and Near-Infrared spectroscopy measurements of fresh and dried poultry and cattle manure", https://doi.org/10.15454/JIGO8R, Recherche Data Gouv
+Gogé, Fabien; Thuriès, Laurent; Fouad, Youssef; Damay, Nathalie; Davrieux, Fabrice; Moussard, Geraud; Le Roux, Caroline; Trupin-Maudemain, Séverine; Valé, Matthieu; Morvan, Thierry, 2020, "Dataset of chemical and Near-Infrared spectroscopy measurements of fresh and dried poultry and cattle manure", https://doi.org/10.15454/JIGO8R, Recherche Data Gouv, V1, UNF:6:xLw9klTHRq6tG3QhnE14KA== [fileUNF] 
 
 
 ## Links
